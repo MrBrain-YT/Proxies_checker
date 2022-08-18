@@ -4,7 +4,6 @@ import urllib.error
 
 
 ip = '190.109.168.217:8080'
-url = 'https://www.yandex.ru'
 
 def is_bad_proxy(pip):
     try:
